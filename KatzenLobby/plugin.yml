@@ -1,0 +1,5 @@
+name: KatzenLobby
+version: 1.0.0
+main: katzen\lobby\KatzenLobby
+author: Lesauw
+api: 5.0.0
